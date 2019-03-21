@@ -1,4 +1,5 @@
 - name: Universidad Tecnológica Indoamérica
+  link: uti.edu.ec
   dates: 2018 - Current
   qualification: Biodiversity and climate change
   quote: >
@@ -8,11 +9,13 @@
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- name: Escuela Superior Politécnica del Litoral - ESPOL
+- name: Escuela Superior Politécnica del Litoral
+  link: espol.edu.ec
   dates: 2010 - 2016
   qualification: Biologist
   quote: >
-    Established in 1958, The Escuela Superior Politécnica del Litoral, ESPOL, was born as a regional need for higher scientific-technical education institutions.  Its mission is to cooperate with society to improve the quality of life and promote sustainable and equitable development, through comprehensive and competent professional training, research and innovation.
+    Established in 1958, The Escuela Superior Politécnica del Litoral - ESPOL, was born as a regional need for higher scientific-technical education institutions.  
+    Its mission is to cooperate with society to improve the quality of life and promote sustainable and equitable development, through comprehensive and competent professional training, research and innovation.
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
