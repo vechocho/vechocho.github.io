@@ -11,7 +11,7 @@ blog: vechocho.github.io/blog
 
 # Social links
 twitter_username: vechocho
-#github_username:  vechocho
+# github_username:  vechocho
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -25,9 +25,9 @@ linkedin_username: vechocho
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Victor and I'm a biologist. Currently workink on GMO biosafety.
+  Hi, my name's Victor and I'm a biologist. Currently workink on biosafety at Environment Ministry of Ecuador.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>environmental policies</mark> and <mark>geographical information system</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,11 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 More Section
 more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in biology and policies, some of my other interests and hobbies are:
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Teaching
+   #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
