@@ -27,7 +27,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Victor and I'm a biologist. Currently workink on biosafety at Environment Ministry of Ecuador.
 
-  I am most skilled in: <mark>environmental policies</mark> and <mark>geographical information system</mark>
+  I am most skilled in: <mark> environmental policies </mark> and <mark> geographical information system </mark>.
 
 # Projects Section
 # projects_title: Projects
